@@ -1,0 +1,7 @@
+payload:
+  # > Google Pixel Update
+  - DOMAIN-SUFFIX,ota.googlezip.net,REJECT
+  - DOMAIN-SUFFIX,googlezip.net,REJECT
+  - DOMAIN-SUFFIX,ota-cache1.googlezip.net,REJECT
+  - DOMAIN-SUFFIX,ota-cache2.googlezip.net,REJECT
+  - DOMAIN-KEYWORD,googlezip,REJECT
